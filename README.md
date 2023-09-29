@@ -16,6 +16,7 @@
 <p></p>
 
 Alternatively, you can set up your project manually:
+- Create an `.env.local` file and add your **secret** key as the `LIVEBLOCKS_SECRET_KEY` environment variable
 
 - Install all dependencies with `npm install`
 - Run `npm run dev` and go to [http://localhost:3000](http://localhost:3000)
